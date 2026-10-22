@@ -1,0 +1,6 @@
+{
+  "name": "EcoCollecte Abidjan - Recyclage & Collecte Déchets B2B (Côte d'Ivoire)",
+  "description": "Plateforme éco-citoyenne et B2B à Abidjan (Côte d'Ivoire) pour la géolocalisation des bacs communautaires et l'annuaire des collecteurs certifiés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
